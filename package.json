@@ -1,0 +1,26 @@
+{
+  "name": "segmentio-form",
+  "description": "Dynamically generate a form by adding fields from a schema.",
+  "version": "0.1.1",
+  "keywords": [
+    "form",
+    "generate",
+    "ui",
+    "checkbox",
+    "input",
+    "textarea",
+    "radio"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-domify": "git://github.com/npmcomponent/component-domify.git",
+    "component-each": "git://github.com/npmcomponent/component-each.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "ianstormtaylor-reactive": "git://github.com/npmcomponent/ianstormtaylor-reactive.git",
+    "component-type": "git://github.com/npmcomponent/component-type.git",
+    "component-value": "git://github.com/npmcomponent/component-value.git",
+    "ianstormtaylor-classes": "git://github.com/npmcomponent/ianstormtaylor-classes.git",
+    "yields-prevent": "git://github.com/npmcomponent/yields-prevent.git"
+  },
+  "license": "MIT"
+}
